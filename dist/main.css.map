@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA,KACE,yBAGF,GACE,e","sources":["webpack://webpack-demo/./src/style.scss"],"sourcesContent":["body {\n  background-color: darkblue;\n}\n\nh1 {\n  font-size: 24px;\n}"],"names":[],"sourceRoot":""}
